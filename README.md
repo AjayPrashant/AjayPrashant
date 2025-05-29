@@ -57,7 +57,7 @@
 
 ### 🤝 Connect with Me
 
-- 💼 [LinkedIn][(https://www.linkedin.com/in/ajay-prashant-muralidharan/)]
+- 💼 LinkedIn: https://www.linkedin.com/in/ajay-prashant-muralidharan
 
 ---
 
