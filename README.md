@@ -57,8 +57,7 @@
 
 ### 🤝 Connect with Me
 
-- 📧 Email: [YourEmail@example.com]
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 💼 [LinkedIn][(https://www.linkedin.com/in/your-profile)](https://www.linkedin.com/in/ajay-prashant-muralidharan/)
 - 📝 [Personal Website / Portfolio] (optional)
 
 ---
