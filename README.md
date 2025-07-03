@@ -14,7 +14,6 @@
 
 - 📊 Data/Business Analyst, passionate about transforming data into actionable insights.
 - 🤖 AI Agents Engineer—building and integrating intelligent systems to solve real-world problems.
-- 🎓 Currently learning and growing at VIT Chennai, India.
 - 🌏 Open to collaborating on AI, ML, data engineering, or analytics projects.
 
 ---
